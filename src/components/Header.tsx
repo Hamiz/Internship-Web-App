@@ -33,7 +33,7 @@ const Header = () => {
           <Link to="/" className="flex items-center space-x-3 group">
             <div className="relative overflow-hidden">
               <img
-                src="src/images/logo2.png"
+                src="/images/logo2.png"
                 alt="Internship Pakistan"
                 className="h-10 w-10 transform transition-transform duration-300 group-hover:scale-110"
               />

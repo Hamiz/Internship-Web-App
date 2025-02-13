@@ -207,7 +207,7 @@ const Home = () => {
           style={{ transform: `translateY(${scrollY * 0.2}px)` }}
         >
           <img
-            src="src/images/f1.jpg"
+            src="/images/f1.jpg"
             alt="background"
             className="w-full h-full object-cover"
           />
@@ -254,7 +254,7 @@ const Home = () => {
             <div className="relative transform hover:scale-105 transition-all duration-500 max-w-lg">
               <div className="absolute -inset-1 bg-gradient-to-r from-blue-400 to-indigo-400 rounded-lg blur opacity-75 animate-pulse" />
               <img
-                src="src/images/f3.jpg"
+                src="/images/f3.jpg"
                 alt="Virtual Internship"
                 className="relative rounded-lg shadow-2xl w-full max-w-none h-auto mx-auto"
               />
